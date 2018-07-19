@@ -1,0 +1,474 @@
+
+@media only screen and (max-width:1300px) {
+
+}
+
+@media only screen and (max-width:1100px) {
+.wrapper { width: 98%; position: relative }
+.footers {  margin-top: -16px;}
+.worker__photo{}
+
+.left_forms .user_serch_input {
+	width: 75%;
+}
+.user_selecl {
+	width: 36%;
+}
+.user_serch_input {
+	width: 36%;
+}
+.left_forms input[type="submit"], .user_but input[type="button"] {
+	padding: 5px 10px;
+}
+/********************************/
+.trs_bbc {
+  margin-bottom: 2%;
+  margin-right: 2%;
+  width: 48%;
+}
+.new_ionc {
+  float: left;
+  width: 50%;
+}
+}
+
+@media only screen and (max-width:1000px) {
+.footers { margin-top: -17px;}
+.myser_img { margin-bottom: 0; padding-left: 54px;}
+.footer_left { width: 30%;}
+.footer_social { width: 25%;}
+.footer_right { width: 45%;}
+.footers{ padding-bottom: 120px; padding-top: 70px;}
+
+.ad_left {
+  width: 30%;
+}
+.main_container {
+  width: 68%;
+}
+.worker__photo{}
+.worker__intro{width: 69%;}
+.work_ll {
+  text-align: center;
+  width: 31%;
+}
+.type { padding-bottom: 3px;
+  width: 100%;
+}
+
+.footers::before {
+  top: -86px;
+}
+header.fixed-header .user_pic {
+  height: 40px;
+  margin-top: -2px;
+  width: 40px;
+}
+.fixed-header .nav {
+  margin-top: 10px;
+}
+.main_container {
+  min-height: 380px;
+}
+.ad_left{ min-height: 380px;}
+.project_sec {
+    width: 32%;
+}
+.popup {
+    width: 90% !important;
+}
+
+.projects_user_list ul li {
+	width: 32.2%;
+}
+.projects_user_list ul li:nth-child(5n+5) {
+	margin-right: 1%;
+}
+
+.left_forms .user_serch_input {
+	width: 100%;
+}
+.left_sr_but {
+	float: left;
+	padding-left: 0;
+	margin-top: 10px;
+}
+.us_right_form {
+	float: left;
+	width: 50%;
+}
+.left_forms {
+	width: 50%;
+}
+.user_serch_input {
+	width: 100%;
+}
+.user_selecl {
+	width: 100%;
+	padding: 5px 0;
+}
+/********************************/
+.trs_bbc {
+  margin-bottom: 2%;
+  margin-right: 2%;
+  width: 48%;
+}
+.under_price {
+  font-size: 27px;
+}
+.under_gtr ul li span,
+.under_gtr ul li label {
+  font-size: 14px;
+}
+
+.hed_right {
+  width: 75%;
+}
+.new_ionc {
+  float: left;
+  width: 63%;
+}
+}
+@media only screen and (max-width:767px) {
+.task_slect h1 { font-size: 44px;}
+.task_slect h4 { font-size: 16px;}
+.footer_left { text-align: center; width: 100%;}
+.footer_social { padding: 15px 0; text-align: center; width: 100%;}
+.footer_right {text-align: center; width: 100%;}
+.footers { margin-top: -86px;}
+.myser_img { margin-bottom: 0; padding-left: 0;}
+.ser_img_mobile{ display: inline-block}
+.ser_img_desktop{ display: none}
+
+
+.ad_left {
+  min-height: 0;
+  /*padding-bottom: 60px;*/
+  width: 100%;
+}
+.main_container {
+  margin-left: 0;
+  margin-top: 20px;
+  width: 100%;
+}
+.side_menu {
+  display: inline-block;
+  float: left;
+  width: 100%
+}
+.showhide2 {
+  display: inline-block;
+  float: left;
+  background: #1cd67c; color: #fff; font-size: 18px; padding: 8px 15px; width: 100%; cursor: pointer
+}
+.slidediv2{ display: none}
+
+.make_field_wide label {
+  color: #000;
+  font-family: "montserratregular";
+  font-size: 14px;
+  position: relative;
+}
+.worker__photo {
+    float: none;
+    margin: 0px auto; float: none; }
+.tack_srs {
+  margin-top: 72px;
+}
+.login_form {
+  display: inline-block;
+  padding: 20px;
+  width: 100%;
+}
+.logouts, .login_but_acco {
+  display: none;
+}
+.hed_right{ width: 80%}
+.project_sec {
+    margin: 10px 1%;
+    width: 47%;
+}
+.new_ionc {
+  float: left;
+  width: 76%;
+}
+
+
+    .left_forms {
+	width: 100%;
+	border-right: none;
+	border-radius: 0;
+	padding-right: 0;
+	border-bottom: 3px #ddd solid;
+	padding-bottom: 10px;
+}
+.left_forms .user_serch_input {
+	width: 100%;
+}
+.left_sr_but {
+	padding-left: 0;
+	margin-top: 10px;
+}
+.us_right_form {
+	float: left;
+	width: 100%;
+	padding-left: 0;
+	padding-top: 20px;
+}
+/*----------------------*/
+.trs_bbc {
+  margin-right: 0;
+  width: 100%;
+    min-height: 0;
+}
+.mnn_prr_scc .project_data{width: 98%;}
+.project_sctt .headd_ing{width: 100%;}
+.notification{width: 6%;}
+header{margin-bottom: 90px;}
+
+}
+@media only screen and (max-width:540px) {
+.task_slect h1 { font-size: 22px;}
+.task_slect h4 { font-size: 12px; line-height: 21px; padding: 13px 0 20px;}
+.task_search input[type="text"]{ width: 94%;}
+.task_search a { margin-left: 0px; margin-top: 10px; width: 94%;}
+.footer_left { text-align: center; width: 100%;}
+.footer_social { padding: 15px 0; text-align: center; width: 100%;}
+.footer_right {text-align: center; width: 100%;}
+.footer_right p { font-size: 12px;}
+.myser_img { display: inline-block; margin-bottom: 0; padding-left: 0; text-align: center; width: 100%;}
+.footers { margin-top: -66px;}
+.register_fields label {
+  width: 100%;
+}
+.input_ty {
+  width: 100%;
+}
+.worker__intro {
+  float: left;
+  padding-left: 15px;
+  width: 72%;
+}
+.type {
+  font-weight: 600;
+  width: 100%;
+  padding-bottom: 3px;
+}
+.make_field_wide label::before{ display: none}
+.login_bx {
+  margin: 0 2% 100px;
+  width: 96%;
+}
+.footers {
+  padding-bottom: 30px;
+}
+.fooet_bottom_link ul li {
+  padding: 0 5px;
+}
+.logouts, .login_but_acco {
+  display: none;
+}
+.work_ll {
+  float: left;
+  width: 100%;
+}
+.profile {
+  float: left;
+  padding: 25px;
+  width: 100%;
+}
+.worker__name{ text-align: center}
+.overlay .popup{ width: 90% !important}
+.project_sec {
+    margin: 10px 1%;
+    width: 47%;
+}
+.dd_showmenu {
+    top: 120px;
+}
+
+.projects_user_list ul li {
+	float: left;
+	width: 49%;
+	margin-right: 1%;
+	margin-bottom: 1%;
+}
+.projects_user_list ul li:nth-child(5n+5) {
+	margin-right: 1%;
+}
+
+.user_dashboards_top_tab ul li a {
+	padding: 8px 10px;
+	width: 90px;
+}
+.user_serch_input {
+	width: 100%;
+	padding: 0;
+}
+.user_selecl {
+	width: 100%;
+	padding: 10px 0;
+}
+
+.hed_right {
+  width: 70%;
+}
+.new_ionc {
+  float: left;
+  margin-top: -15px;
+  width: 56%;
+}
+.new_ionc_a {
+  font-size: 12px;
+  line-height: 19px;
+  margin-bottom: 2px;
+  margin-right: 0 !important;
+  padding: 2px 8px;
+}
+.btn_wrap{width:100%;}
+.notification{padding-top: 15px;}
+.profiel{padding-top: 15px; padding-left: 10px;}
+.menu_iconss_togg{top: 35px;}
+.header_address{width: 100%; margin-bottom: 10px; padding-top: 0px;}
+header{margin-bottom: 190px;}
+.mnn_prr_scc .project_data{width: 98%;}
+.project_sctt .headd_ing{width: 100%;}
+}
+
+@media only screen and (max-width:479px) {
+.footers { margin-top: -44px;}
+.login_but {
+  display: inline-block;
+  margin-right: 2px;
+}
+.user_pic {
+  height: 50px;
+  width: 50px;
+  margin-top: -10px; margin-right: 5px;
+}
+.user_pic a.user_img_pic {
+  height: 50px;
+  width: 50px;
+}
+.worker__item {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+.worker__photo {
+  display: inline-block;
+  float: none;
+}
+.worker__intro {
+  padding-left: 0;
+  text-align: center;
+  width: 100%;
+}
+.worker__contacts {
+  text-align: left;
+}
+.type {
+  font-weight: 600;
+  width: 100%;
+}
+.task_search input[type="submit"] {
+  margin-left: 0;
+  margin-top: 10px;
+  width: 94%;
+}
+.login_but a {
+  font-size: 13px;
+    padding: 10px 9px 8px;
+}
+.fooet_bottom_link ul li {
+  padding: 5px 15px;
+}
+.logouts, .login_but_acco {
+  display: none;
+}
+.user_pic {
+  margin-top: -15px;
+}
+.project_sec {
+    margin: 10px 0;
+    width: 100%;
+}
+
+.user_dashboards_top_tab ul li {
+	padding-right: 5px;
+}
+
+.user_dashboards_top_tab ul li a {  
+	font-size: 13px;
+	padding: 8px 8px;
+	width: auto;
+}
+.projects_user_list ul li {
+	width: 100%;
+	margin-right: 0;
+	margin-bottom: 2%;
+}
+.projects_user_list ul li:nth-child(5n+5) {
+	margin-right: 0%;
+}
+
+/*----------------------*/
+.trs_bbc {
+  margin-right: 0;
+  width: 100%;
+    min-height: 0;
+}
+.under_title {
+  font-size: 14px;
+}
+.under_price {
+  font-size: 18px;
+}
+.under_price span {
+  padding-top: 4px;
+}
+.under_gtr ul {
+  padding: 10px;
+}
+.under_gtr ul li label {
+  font-size: 12px;
+}
+.under_gtr ul li span {
+  font-size: 12px;
+}
+
+.res_multi a {
+  font-size: 13px;
+}
+.past_due_tasks label {
+  font-size: 12px;padding-top: 8px;
+}
+.under_graph_point {
+  padding: 0 10px;
+}
+.complate_unders span {
+  float: left;
+  text-align: left;
+  width: 100%;
+}
+.hed_right {
+  width: 60%;
+}
+.new_ionc {
+  float: left;
+  margin-top: -14px;
+  text-align: left;
+  width: 54%;
+}
+.new_ionc_a {
+  font-size: 10px;
+  line-height: 19px;
+  margin-bottom: 5px;
+  margin-right: 0 !important;
+  padding: 1px 3px;
+}
+}
+@media only screen and (max-width:340px) {
+
+
+}

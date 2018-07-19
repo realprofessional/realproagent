@@ -1,0 +1,1 @@
+{{Form::select('board_id', $array_board, Input::old('board_id'),array('class'=>'required','id'=>'move_boardd_id'.$task_id,'onchange'=>"getBoardMoveTasks(this.options[this.selectedIndex].value, $task_id);"))}}

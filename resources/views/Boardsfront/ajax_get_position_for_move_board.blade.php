@@ -1,0 +1,1 @@
+{{Form::select('position', $array_position, Input::old('position'),array('class'=>'required','id'=>'move_board_position'.$board_id)) }}

@@ -1,0 +1,11 @@
+[22-Jan-2018 11:24:57 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/realproagent/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 351
+[22-Jan-2018 11:25:08 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/realproagent/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 351
+[22-Jan-2018 11:27:13 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/realproagent/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 351
+[22-Jan-2018 11:27:17 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/realproagent/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 351
+[22-Jan-2018 11:29:26 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/realproagent/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 351
+[22-Jan-2018 11:31:02 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/realproagent/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 351
+[22-Jan-2018 11:44:23 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/realproagent/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 351
+[30-May-2018 09:00:45 UTC] PHP Fatal error:  Unsupported operand types in /home/realproagent/public_html/storage/framework/views/5f7a8d06940c7fc5a983bd6d05a74bf002618bc2.php on line 552
+[30-May-2018 09:00:47 UTC] PHP Fatal error:  Unsupported operand types in /home/realproagent/public_html/storage/framework/views/5f7a8d06940c7fc5a983bd6d05a74bf002618bc2.php on line 552
+[30-May-2018 09:01:01 UTC] PHP Fatal error:  Unsupported operand types in /home/realproagent/public_html/storage/framework/views/5f7a8d06940c7fc5a983bd6d05a74bf002618bc2.php on line 552
+[30-May-2018 09:01:07 UTC] PHP Fatal error:  Unsupported operand types in /home/realproagent/public_html/storage/framework/views/5f7a8d06940c7fc5a983bd6d05a74bf002618bc2.php on line 552
